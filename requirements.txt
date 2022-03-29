@@ -1,0 +1,12 @@
+tensorflow
+ale-py==0.7.3
+cloudpickle==2.0.0
+gym==0.21.0
+importlib-metadata==4.9.0
+importlib-resources==5.4.0
+java-random==1.0
+numpy==1.21.4
+pyglet==1.5.21
+torch==1.10.1
+typing-extensions==4.0.1
+zipp==3.6.0
